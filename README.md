@@ -13,3 +13,4 @@ your default browser.
 ```
 ff https://github.com/jarshwah/
 ```
+![screenshot: `ff https://github.com/jarshwah/`](open-in-ff.png)
